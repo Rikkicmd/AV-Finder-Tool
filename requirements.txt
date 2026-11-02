@@ -1,0 +1,5 @@
+fastapi>=0.110
+uvicorn>=0.27
+httpx>=0.27
+lxml>=5.0
+psutil>=5.9
